@@ -1,0 +1,2 @@
+User memiliki banyak item dan item dimiliki banyak user maka buatlah table penghubung dengan masing ID nya sebagai foreign key di table penghubung tersebut,
+sama dengan hubungan table Item dengan table Tag, namun admin memiliki banyak akses ke item guna memanage item2 tersebut maka relationnya one to many yg dimana table item memiliki fk Admin. 
